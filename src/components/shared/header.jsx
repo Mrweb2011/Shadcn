@@ -10,6 +10,7 @@ function App() {
                 <li>Home</li>
                 <li>Programs</li>
             </ul>
+            
             <button className='bg-black text-white border-1.5 border-gray-400 p-1'><GoSun /></button>
             <button className='bg-black text-white border-1.5 border-gray-400 p-1'><LuMoon /></button>
             <button className="bg-[rgb(49, 49, 49)] border-none p-2 rounded"><a className='text-white font-semibold' href="">Join Free</a></button>
